@@ -105,3 +105,12 @@ body {
     font-style: oblique;
     border: 2px solid black;
 }
+
+.position5 {
+    width: 250px;
+    position: fixed;
+    right: 45px;
+    height: 200px;
+    top: 75px;
+
+}
