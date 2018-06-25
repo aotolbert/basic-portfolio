@@ -1,8 +1,8 @@
 h1 {
 position: fixed;
 top: 0px;
-background-color: black;
-color: white;
+background-color: whitesmoke;
+color: black;
 width: 100%;
 height: 50px;
 text-align: center;
@@ -72,11 +72,13 @@ body {
     margin-left: auto;
     /* left: 0; */
     margin-right: auto;
+    border: hidden;
 }
 
 .profile {
     position: relative;
-    padding-right: 30px;
+    margin-right: 15px;
+    border: 2px solid blue;
 
 }
 
@@ -88,4 +90,18 @@ body {
 
 .links {
     padding-left: 10px;
+    padding-top: 10px;
+}
+
+.header {
+    text-align: left;
+    vertical-align: middle;
+    position: fixed;
+    background-color: blue;
+    height: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    font-style: oblique;
+    border: 2px solid black;
 }
