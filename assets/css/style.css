@@ -13,6 +13,7 @@ z-index: 10;
 h2 {
     text-align: left;
     color: #4aaaa5;
+    font-size: 25px;
  }
 
 body {
@@ -65,7 +66,7 @@ body {
 .position4 {
     text-align: justify;
     padding: 10pt;
-    margin-top: 25px;
+    margin-top: 10px;
     height: 320px;
     font-size: larger;
     width: 90%;
